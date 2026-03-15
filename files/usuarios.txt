@@ -1,0 +1,2 @@
+# usuario:validade:status
+# status: on = controlar expiração | blocked = bloqueado | off = ignorar
